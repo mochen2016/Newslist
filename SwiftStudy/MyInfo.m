@@ -9,16 +9,10 @@
 #import "MyInfo.h"
 #import "SwiftStudy-Swift.h"
 
-#import "CClass.h"
 @implementation MyInfo
 
 - (void)disPlay {
     NSLog(@"-->%s->%s",__FILE__,__func__);
-    
-    ViewController *vc = [[ViewController alloc]init];
-    
-    
-    MoreViewController *morevc = [[MoreViewController alloc]init];
     
 }
 

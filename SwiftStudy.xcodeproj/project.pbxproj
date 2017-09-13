@@ -18,7 +18,6 @@
 		BA515FF11DE6DF2800AEAFA0 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA515FF01DE6DF2800AEAFA0 /* MoreViewController.swift */; };
 		BA628E6F1E135F6B006A265A /* SelectManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA628E6E1E135F6B006A265A /* SelectManager.swift */; };
 		BA628E731E136252006A265A /* MyInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = BA628E721E136252006A265A /* MyInfo.m */; };
-		BA628E761E13629B006A265A /* CClass.c in Sources */ = {isa = PBXBuildFile; fileRef = BA628E741E13629B006A265A /* CClass.c */; };
 		BAFBD3AA1DF11F1F00A55BDE /* ServerInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFBD3A91DF11F1F00A55BDE /* ServerInterface.swift */; };
 /* End PBXBuildFile section */
 
@@ -59,8 +58,6 @@
 		BA628E701E136251006A265A /* SwiftStudy-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftStudy-Bridging-Header.h"; sourceTree = "<group>"; };
 		BA628E711E136252006A265A /* MyInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyInfo.h; sourceTree = "<group>"; };
 		BA628E721E136252006A265A /* MyInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyInfo.m; sourceTree = "<group>"; };
-		BA628E741E13629B006A265A /* CClass.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = CClass.c; sourceTree = "<group>"; };
-		BA628E751E13629B006A265A /* CClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CClass.h; sourceTree = "<group>"; };
 		BAFBD3A91DF11F1F00A55BDE /* ServerInterface.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServerInterface.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -120,8 +117,6 @@
 				BAFBD3A91DF11F1F00A55BDE /* ServerInterface.swift */,
 				BA628E711E136252006A265A /* MyInfo.h */,
 				BA628E721E136252006A265A /* MyInfo.m */,
-				BA628E741E13629B006A265A /* CClass.c */,
-				BA628E751E13629B006A265A /* CClass.h */,
 				BA515FC01DDADBCC00AEAFA0 /* Main.storyboard */,
 				BA515FC31DDADBCC00AEAFA0 /* Assets.xcassets */,
 				BA515FC51DDADBCC00AEAFA0 /* LaunchScreen.storyboard */,
@@ -286,7 +281,6 @@
 			files = (
 				BA628E731E136252006A265A /* MyInfo.m in Sources */,
 				BA515FBF1DDADBCC00AEAFA0 /* ViewController.swift in Sources */,
-				BA628E761E13629B006A265A /* CClass.c in Sources */,
 				BA628E6F1E135F6B006A265A /* SelectManager.swift in Sources */,
 				BAFBD3AA1DF11F1F00A55BDE /* ServerInterface.swift in Sources */,
 				BA515FF11DE6DF2800AEAFA0 /* MoreViewController.swift in Sources */,
